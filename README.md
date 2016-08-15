@@ -1,0 +1,1 @@
+# docker-rhel6-puppet-installed
